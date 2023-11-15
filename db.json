@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "firstname": "nidhi",
+      "lastname": "nidhi",
+      "birthdate": "2023-11-16",
+      "gender": "f",
+      "education": "graduation",
+      "company": "nidhi",
+      "jobExperience": 33,
+      "salary": 33,
+      "profile": "michael-dam-mEZ3PoFGs_k-unsplash.jpg",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
